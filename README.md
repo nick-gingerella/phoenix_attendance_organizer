@@ -1,2 +1,3 @@
-# phoenix_attendance_organizer
-Practice project for learning phoenix framework
+# Attendance Organizer
+
+A small practice project for learning the Phoenix framework
